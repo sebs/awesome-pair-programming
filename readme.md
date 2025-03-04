@@ -13,6 +13,12 @@
 
 ## Resources
 
+### Lectures
+
+
+* [colorado university cs lecture](https://home.cs.colorado.edu/~kena/classes/5828/s12/presentation-materials/wuhanchao.pdf)
+
+
 ### Books
 
 - [Pairprogramming Illuminated](https://www.amazon.com/-/en/Pair-Programming-Illuminated-Laurie-Williams/dp/0201745763) - Arguably the best book and kind of the first book focussing on this topic.
